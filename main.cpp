@@ -27,7 +27,7 @@ g = 10 * 1e3 / 1e12; //мм/мкс/мкс
 #endif
 
 
-long int stepNum = 10000;
+long int stepNum = 100000;
 long double stepL = L / 2 / stepNum;
 
 class Throw{
